@@ -1,3 +1,11 @@
+<img width="847" height="638" alt="MANOR HOME NETWORK drawio" src="https://github.com/user-attachments/assets/f1155cf1-6e53-416c-8870-db2254cc50d6" />
+
+
+
+
+
+
+
 NETWORK OVERVIEW :::
 AT&T fiber terminates at the BGW320-505, which acts as the primary gateway and Wi-Fi 6 (802.11ax) access point. 
 High-bandwidth clients stay on this network: the PS5 and PS4 are hardwired (CAT5) for consistent low-latency performance, while the Xbox Series X and both Samsung displays run wireless on the 5 GHz radio.
@@ -23,3 +31,4 @@ Wireless links are dashed, wired are solid.
 | Samsung Crystal UHD | Secondary display | ~$800 |
 | Ryobi Garage Door | Smart access | ~$250 |
 | Wyze Cameras (x3) | Perimeter security | ~$40–60 each |
+
